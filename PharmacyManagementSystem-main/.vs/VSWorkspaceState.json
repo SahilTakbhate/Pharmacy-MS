@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PharmacyManagementSystem",
+    "\\PharmacyManagementSystem\\Authentication",
+    "\\PharmacyManagementSystem\\Controllers"
+  ],
+  "SelectedNode": "\\PharmacyManagementSystem\\Controllers\\UsersController.cs",
+  "PreviewInSolutionExplorer": false
+}
